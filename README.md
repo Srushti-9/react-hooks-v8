@@ -18,7 +18,7 @@ The "react-hooks-v8" project is a collection of examples and experiments showcas
 **Installation**
 Clone the repository:
 ```bash
-git clone https://github.com/username/react-hooks-v8.git
+git clone https://github.com/Srushti-9/react-hooks-v8.git
 ```
 
 Install dependencies:
