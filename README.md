@@ -17,6 +17,10 @@ The "react-hooks-v8" project is a collection of examples and experiments showcas
 - Styling: CSS Modules
 - Version Control: Git, GitHub
 
+## Three.js Integration
+
+The "react-hooks-v8" project also incorporates Three.js, a JavaScript library used for creating and displaying 3D graphics in a web browser. Three.js enhances the visual experience of the application by enabling the rendering of complex 3D scenes and animations directly within the React components. Leveraging Three.js opens up possibilities for creating immersive and interactive user interfaces, making it an ideal choice for projects requiring advanced visualization capabilities.
+
 **Installation**
 Clone the repository:
 
